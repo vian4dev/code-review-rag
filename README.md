@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/vian4dev/vian4dev/bfae0da7d97ab8f10a008d3fdea6f2e2181fa3ca/.github/rocketseat.svg" width="250" height="250" alt="Rocketseat">
 </div>
 
-# Solução RAG
+# Code Review RAG
 
 ## ✒️ Descrição
 O RAG, ou Retrieval Augmented Generation, é uma técnica que combina a recuperação de informações com a geração de respostas para melhorar a qualidade das respostas de um modelo de linguagem. Ao recuperar dados de diferentes fontes, como documentos e bancos de dados, o modelo consegue fornecer respostas mais precisas e atualizadas. Neste projeto desenvolvido, mostro um processo simplificado de code review utilizando RAG em um código de uma aplicação, no qual o objetivo é fornecer dicas de melhorias e performance.
